@@ -11,6 +11,7 @@ import PersonScreen from "./Screens/PersonScreen";
 import SearchScreen from "./Screens/SearchScreen";
 import { Text, TouchableOpacity, View } from "react-native";
 import Bollywood from "./Screens/Bollywood";
+
 import Hollywood from "./Screens/Hollywood";
 import Web_series from "./Screens/Web_serious";
 import Dubbed from "./Screens/Dubbed";
